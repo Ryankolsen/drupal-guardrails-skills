@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "drupal-guardrails",
+  "description": "Drupal + Claude Code skills covering content types, Views, SDCs, Canvas, testing, patching, and general development workflow.",
+  "owner": {
+    "name": "Ryan Kolsen",
+    "email": "ryankolsen@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "drupal-guardrails",
+      "description": "17 skills for Drupal 11 + DDEV development: content modelling, Views, Single Directory Components, Canvas, PHPUnit kernel tests, contrib patching, code review, and general workflow (PRDs, planning, committing).",
+      "author": {
+        "name": "Ryan Kolsen"
+      },
+      "category": "development",
+      "source": "./drupal-guardrails"
+    }
+  ]
+}

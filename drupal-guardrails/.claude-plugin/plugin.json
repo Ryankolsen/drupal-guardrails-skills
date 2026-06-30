@@ -1,0 +1,11 @@
+{
+  "name": "drupal-guardrails",
+  "description": "17 Claude Code skills for Drupal 11 + DDEV development. Covers content modelling, Views, SDCs, Canvas, PHPUnit kernel tests, contrib patching, code review, and general workflow.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ryan Kolsen",
+    "email": "ryankolsen@gmail.com"
+  },
+  "homepage": "https://github.com/ryankolsen/drupal-guardrails-skills",
+  "repository": "https://github.com/ryankolsen/drupal-guardrails-skills"
+}

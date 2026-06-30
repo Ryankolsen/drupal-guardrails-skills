@@ -4,32 +4,27 @@ A Claude Code plugin with 17 skills for Drupal 11 + DDEV development. Skills cov
 
 ## Installation
 
-**Step 1 — Add this marketplace:**
+**Step 1 — Add this marketplace**
+
+Run `/plugin marketplace add` in Claude Code. When prompted with "Enter marketplace source:", type:
 
 ```
-/plugin marketplace add ryankolsen/drupal-guardrails-skills
+ryankolsen/drupal-guardrails-skills
 ```
 
-**Step 2 — Install the plugin:**
+**Step 2 — Install the plugin**
 
-```
-/plugin install drupal-guardrails
-```
+Run `/plugin install` in Claude Code. When prompted, select **drupal-guardrails** from the list.
 
 All 17 skills become available immediately in any project. Claude Code auto-discovers them by description — no manual registration needed.
 
 ## Update
 
-```
-/plugin update drupal-guardrails
-```
+Run `/plugin update` in Claude Code and select **drupal-guardrails**.
 
 ## Uninstall
 
-```
-/plugin uninstall drupal-guardrails
-/plugin marketplace remove ryankolsen/drupal-guardrails-skills
-```
+Run `/plugin uninstall` and select **drupal-guardrails**, then run `/plugin marketplace remove` and select **drupal-guardrails-skills**.
 
 ## Prerequisites
 
